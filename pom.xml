@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
  
-  <groupId>me.zenisbestwolf</groupId>
+  <groupId>gay.zen</groupId>
   <artifactId>zen-minecraft-spigot-plugin-archetype</artifactId>
-  <version>1.1</version>
+  <version>1.2.20</version>
   <packaging>maven-archetype</packaging>
  
   <build>

@@ -3,4 +3,4 @@ version: ${version}
 author: Your Name
 main: ${groupId}.${artifactId}.Main
 description: Description.
-api-version: 1.16
+api-version: 1.20
